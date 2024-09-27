@@ -20,7 +20,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg ">
         <div className="container">
           <Link className="navbar-brand" to="/">
-            <RiContactsBook2Fill /> todo
+            <RiContactsBook2Fill /> TODObyKIRAN
           </Link>
 
           <button
